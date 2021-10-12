@@ -1,5 +1,8 @@
 # Lab-01
 Computer Laboratory 2564 - Lab 01
 
-Myname is Sarayut Janusang
-Edited by Github Text Editor.
+#include < stdio.h >
+main( )
+{
+        printf ("hello, world\n");
+}
